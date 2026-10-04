@@ -1,0 +1,24 @@
+/vendor
+
+# Added for publishing
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+*.swp
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+/vendor/
+/node_modules/
+/public/build/
+/public/hot
+/storage/*.key
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
